@@ -24,7 +24,7 @@ Explore my <a href="https://raflimaulana.com/" target="_blank">portfolio</a> to 
 
 <div align="left">
 <kbd>
-  <img height="135em" width="380em" alt="stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=raflimaulanayh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_title=true"></kbd>
+  <img height="135em" width="380em" alt="stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=raflimaulanayh&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_title=true"></kbd>
 </kbd>
 <kbd>
     <img height="135em" width="380em" alt="stats" src="https://github-readme-activity-graph.vercel.app/graph?username=raflimaulanayh&theme=react&hide_title=true"></kbd>
